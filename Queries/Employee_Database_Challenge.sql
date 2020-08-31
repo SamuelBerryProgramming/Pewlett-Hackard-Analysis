@@ -23,6 +23,7 @@ INTO unique_titles
 FROM retirement_titles
 ORDER BY emp_no, to_date DESC;
 
+-- Retiring counts
 select count(title),
 	title
 into retiring_titles
@@ -30,6 +31,7 @@ from unique_titles
 GROUP by title
 order by count desc;
 
+-- mentorship_eligibilty
 select DISTINCT ON (e.emp_no) e.emp_no,
 e.first_name,
 e.last_name,
