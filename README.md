@@ -9,7 +9,7 @@
 ## Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-  90399 positions will need to be filled or made redundant as employees retire. Selecting for Senior team members shows us that 57669 of those positions are Senior teammembers.
+  90399 positions will need to be filled or made redundant as employees retire. Selecting for Senior team members shows us that 57669 of those positions are Senior team members.
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
   There are only 1550 employees who meet current eligibility for the mentorship program. Additionally, after selecting for employees with birth days after 1965 it was discovered those 1550 are the youngest available mentors.   
